@@ -1,5 +1,5 @@
-# Scrappy-Bot-Coral
-Scrappy boy using selenium get categories for a data base.
+# Scrapy-Bot-Coral
+Scrapy boy using selenium get categories for a data base.
 
 The code was created for study purposes and only saves the data already provided for the general public.
 
